@@ -15,7 +15,7 @@ class ControllerTest {
         int result = controller.myMethod(1,2);
 
         //assert
-        assertEquals(4,result);
+        assertEquals(5,result);
     }
 
     @Test
