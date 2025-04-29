@@ -27,7 +27,7 @@ class ControllerTest {
         double result = controller.divicion(4,2);
 
         //assert
-        assertEquals(2,result);
+        assertEquals(2,3);
     }
 
 }
